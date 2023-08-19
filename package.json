@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@truffle/hdwallet-provider": "^2.1.13",
+    "dotenv": "^16.3.1",
     "fs-extra": "^11.1.1",
     "ganache": "^7.9.0",
     "mocha": "^10.2.0",
@@ -22,6 +23,6 @@
     "semantic-ui-css": "^2.5.0",
     "semantic-ui-react": "^2.1.4",
     "solc": "^0.8.9",
-    "web3": "^1.6.0"
+    "web3": "^4.0.3"
   }
 }
